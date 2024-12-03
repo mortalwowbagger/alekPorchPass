@@ -46,7 +46,7 @@ npx playwright install
 npm install
 
 Run Tests
-Options:
+Options
 npx playwright test
 npx playwright test <testfile> 
 npx playwright test --headed
