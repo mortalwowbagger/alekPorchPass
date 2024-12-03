@@ -58,5 +58,6 @@ Assumptions
 * Nav options have unique text
 
 Challenges
+* Captcha displayed running headless.
 * Majority of elements interacted with during a test did not have ids - Used different selectors like class or text.
 * Monthly payment did not reflect changes immediately - Added explicit waits.
